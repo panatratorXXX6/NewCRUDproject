@@ -5,4 +5,8 @@ class DishController {
     def index() {
 
     }
+
+    def addNewDish() {
+
+    }
 }
