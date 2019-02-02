@@ -1,11 +1,8 @@
 package newcrudproject
 
-class Dish {
-
-    static hasMany = [ingredient:Ingredient]
+class Ingredient {
 
     String name
-    float weight
 
     static constraints = {
     }
