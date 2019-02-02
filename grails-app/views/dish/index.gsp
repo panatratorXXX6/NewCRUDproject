@@ -5,5 +5,6 @@
     <title>Welcome to MyCubes menu</title>
 </head>
     <body>
+    <div>Dish welcome page</div>
     </body>
 </html>
